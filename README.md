@@ -76,6 +76,3 @@ cd /userdata/system/services
 rm Zerotier
 cd /userdata/system
 ```
-# Credits
-- [Dre-OS](https://github.com/Dre-OS)  big bruh scriptor
-- [rafalb8](https://github.com/rafalb8)  for the original static binaries files
